@@ -1,0 +1,12 @@
+Simple Program which uses the Skype Public API to call a telephone number and enter the extension
+
+Dependencies:
+	Requires Vala
+
+Building Instructions:
+	make all
+
+Usage:
+	skype-auto-dial <phone number> [extension]
+
+Skype will pop up with a confirmation which asks you to confirm skype public api access to the application.
